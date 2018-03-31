@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StarterGear.iml" filepath="$PROJECT_DIR$/StarterGear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarterGear_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StarterGear_main.iml" group="StarterGear" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarterGear_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StarterGear_test.iml" group="StarterGear" />
+    </modules>
+  </component>
+</project>
